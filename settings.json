@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Qaternos123.aternos.me
-",
+    "ip": "Qaternos123.aternos.me",
     "port": 55140,
     "version": "26.1.2",
     "try-creative": false
